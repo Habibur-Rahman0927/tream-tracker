@@ -1,0 +1,20 @@
+.back{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../../image/background.jpeg) center no-repeat;
+    height: 300px;
+    position: cover;
+}
+.team-tracker{
+    text-align: center;
+    color: white;
+    padding: 120px;
+}
+.imgDiv{
+    
+
+    text-align: center;
+}
+.img{
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+}

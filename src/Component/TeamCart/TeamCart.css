@@ -1,0 +1,26 @@
+.team-image{
+    height: 200px;
+    width: 200px;
+}
+.team-cart{
+    text-align: center;
+}
+.cart-background{
+    background-color: white;
+    margin: 15px;
+    padding: 20px;
+}
+.paragrah{
+    margin: 5px 0px;
+}
+.btn{
+    height: 30px;
+    width: 150px;
+    margin: 10px;
+    color: white;
+    background-color: #3A42FF;
+    border: none;
+}
+.icon{
+    margin: 0px 5px;
+}
