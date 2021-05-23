@@ -9,7 +9,7 @@ const Home = () => {
         fetch('https://www.thesportsdb.com/api/v1/json/1/search_all_teams.php?l=English%20Premier%20League')
             .then(res => res.json())
             .then(data => setTeam(data.teams))
-    }, []);
+    }, [team]);
     const heading = <h1 className="team-tracker">Team Tracker</h1>
     return (
         <div>
