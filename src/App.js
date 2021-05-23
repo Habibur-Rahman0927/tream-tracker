@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import {
   BrowserRouter as Router,
@@ -30,4 +31,4 @@ function App() {
 }
 
 export default App;
-{/* https://www.thesportsdb.com/api/v1/json/1/lookupteam.php?id=133604 */ }
+
