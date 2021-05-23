@@ -1,5 +1,4 @@
 import React from 'react';
-import backgroundImage from '../../image/background.jpeg'
 import './Background.css'
 
 const Background = (props) => {

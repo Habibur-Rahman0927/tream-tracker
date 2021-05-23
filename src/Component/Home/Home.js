@@ -14,9 +14,6 @@ const Home = () => {
     return (
         <div>
             <Background heading={heading}></Background>
-            {/* {
-                console.log(team)
-            } */}
             <div className="backgroundColor">
                 <div className="team-component">
                     {

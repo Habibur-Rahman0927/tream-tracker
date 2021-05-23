@@ -25,9 +25,6 @@ const TeamDetails = () => {
         <div className="backgroundColor">
 
             <Background image={image}></Background>
-            {
-                console.log(teamDetails)
-            }
             <div className="team-body">
                 <div className="team-details">
                     <div className="team-detail">

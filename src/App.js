@@ -2,9 +2,7 @@ import './App.css';
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link,
-  useParams
+  Route
 } from "react-router-dom";
 import Home from './Component/Home/Home';
 import TeamDetails from './Component/TeamDetails/TeamDetails';
